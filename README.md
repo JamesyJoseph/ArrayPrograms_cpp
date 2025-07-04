@@ -28,7 +28,7 @@ Output Format
 
 <hr> 
 
-# 2) Sum of array elements (LinearSearch.cpp)
+# 2) Sum of array elements (SumOfArray.cpp)
 <p><i>Given an array of integers, find the sum of the elements of the given array.
 Note: Try to solve without declaring/storing the array elements.</i></p>
 <i>

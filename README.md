@@ -1,8 +1,8 @@
 <h1>C++ Programs:</h1>
 
 <h2>1) Linear search on array</h2>
-<i>Given an array on integers, search a given key in the array using linear search.
-Note: Do not use any inbuilt functions/libraries for the main logic.
+<p><i>Given an array on integers, search a given key in the array using linear search.
+Note: Do not use any inbuilt functions/libraries for the main logic.</i></p>
 
 Input Format
 

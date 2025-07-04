@@ -24,8 +24,8 @@ Output Format
 5 15 3 <br>
 2<br>
 70 100<br>
-<br>//OUTPUTS
-----------
+<br>//OUTPUTS<br>
+----------<br>
 23<br>
 170<br>
 

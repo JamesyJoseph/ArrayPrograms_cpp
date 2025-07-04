@@ -18,7 +18,7 @@ Output Format
 <ul><li>If key is found, print the index of the array, otherwise print -1.</li></ul>
 </i>
 //INPUTS
------------
+----------
 2
 3
 5 15 3 

@@ -1,6 +1,6 @@
 <h1>C++ Programs:</h1>
 
-# 1) Linear search on array (LinearSearch.cpp)
+# 1) Linear search on array (<a href="https://github.com/JamesyJoseph/ArrayPrograms_cpp/LinearSearch.cpp">LinearSearch.cpp</a>)
 <p><i>Given an array on integers, search a given key in the array using linear search.
 Note: Do not use any inbuilt functions/libraries for the main logic.</i></p>
 <i>

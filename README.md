@@ -5,7 +5,7 @@
 Note: Do not use any inbuilt functions/libraries for the main logic.</i></p>
 <i>
   Input Format
-
+  
 <ul><li>First line of input contains two integers, N - size of the array and K - search key. Second line contains the elements of the array.</li></ul>
 
 Constraints

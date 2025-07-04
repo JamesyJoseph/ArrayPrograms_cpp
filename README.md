@@ -17,6 +17,7 @@ Output Format
 
 <ul><li>If key is found, print the index of the array, otherwise print -1.</li></ul>
 </i>
+
 //INPUTS
 ----------
 2
@@ -50,6 +51,7 @@ Output Format
 
 <ul><li>For each test case, print the sum of the elements of the array, separated by new line.</li></ul>
 </i>
+
 //INPUTS
 -----------
 2

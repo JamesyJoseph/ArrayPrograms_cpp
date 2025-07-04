@@ -1,6 +1,6 @@
 <h1>C++ Programs:</h1>
 
-#1) Linear search on array (LinearSearch.cpp)
+# 1) Linear search on array (LinearSearch.cpp)
 <p><i>Given an array on integers, search a given key in the array using linear search.
 Note: Do not use any inbuilt functions/libraries for the main logic.</i></p>
 <i>
@@ -17,7 +17,6 @@ Output Format
 
 <ul><li>If key is found, print the index of the array, otherwise print -1.</li></ul>
 </i>
-
 //INPUTS
 ----------
 2<br>
@@ -25,7 +24,6 @@ Output Format
 5 15 3 <br>
 2<br>
 70 100<br>
-
 //OUTPUTS
 ----------
 23<br>
@@ -33,7 +31,7 @@ Output Format
 
 <hr> 
 
-#2) Sum of array elements (LinearSearch.cpp)
+# 2) Sum of array elements (LinearSearch.cpp)
 <p><i>Given an array of integers, find the sum of the elements of the given array.
 Note: Try to solve without declaring/storing the array elements.</i></p>
 <i>
@@ -51,7 +49,6 @@ Output Format
 
 <ul><li>For each test case, print the sum of the elements of the array, separated by new line.</li></ul>
 </i>
-
 //INPUTS
 -----------
 2<br>
@@ -59,7 +56,6 @@ Output Format
 5 15 3 <br>
 2<br>
 70 100<br>
-
 //OUTPUTS
 ----------
 23<br>

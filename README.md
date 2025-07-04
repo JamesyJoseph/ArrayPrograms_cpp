@@ -19,15 +19,12 @@ Output Format
 </i>
 <br>//INPUTS<br>
 ----------<br>
-2<br>
-3<br>
-5 15 3 <br>
-2<br>
-70 100<br>
+5 15<br>
+-2 -19 8 15 4
 <br>//OUTPUTS<br>
 ----------<br>
-23<br>
-170<br>
+3<br>
+
 
 <hr> 
 

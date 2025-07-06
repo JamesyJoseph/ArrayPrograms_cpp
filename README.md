@@ -113,3 +113,33 @@ Output Format
 5 9 21<br>
 
 <hr> 
+
+# 5) Repeated Numbers (<a href="https://github.com/JamesyJoseph/ArrayPrograms_cpp/blob/main/">RepeatedNumbers.cpp</a>)
+<p><i>You are given an array of N elements. All elements of the array are in range 1 to N-2. All elements occur once except two numbers, which occur twice. The task is to find the two repeating numbers.</i></p>
+<i>
+  Input Format
+  
+<ul><li>First line of input contains T - number of test cases. Its followed by 2T lines, the first line contains N - the size of the array and second line contains the elements of the array.</li></ul>
+
+Constraints
+
+<ul><li>1 <= T <= 100</li>
+<li>4 <= N <= 10^3</li></ul>
+
+Output Format
+
+<ul><li>Print the 2 repeated numbers in sorted manner, for each test case, separated by new line.</li></ul>
+</i>
+<br>//INPUTS<br>
+-----------<br>
+2<br>
+8<br>
+1 3 2 3 4 6 5 5 <br>
+10<br>
+1 5 2 8 1 4 7 4 3 6<br>
+<br>//OUTPUTS<br>
+----------<br>
+3 5<br>
+1 4<br>
+
+<hr> 

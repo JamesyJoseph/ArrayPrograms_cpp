@@ -61,7 +61,7 @@ Output Format
 <hr> 
 
 
-# 3) Duplicate Element in array (<a href="https://github.com/JamesyJoseph/ArrayPrograms_cpp/blob/main/SumOfArray.cpp">SumOfArray.cpp</a>)
+# 3) Duplicate Element in array (<a href="https://github.com/JamesyJoseph/ArrayPrograms_cpp/blob/main/DuplicateElement.cpp">DuplicateElement.cpp</a>)
 <p><i>Find a duplicate element in the given array of integers. There will be only a single duplicate element in the array.
 Note: Do not use any inbuilt functions/libraries for your main logic.</i></p>
 <i>

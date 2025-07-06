@@ -59,3 +59,31 @@ Output Format
 170<br>
 
 <hr> 
+
+
+# 3) Duplicate Element in array (<a href="https://github.com/JamesyJoseph/ArrayPrograms_cpp/blob/main/SumOfArray.cpp">SumOfArray.cpp</a>)
+<p><i>Find a duplicate element in the given array of integers. There will be only a single duplicate element in the array.
+Note: Do not use any inbuilt functions/libraries for your main logic.</i></p>
+<i>
+  Input Format
+  
+<ul><li>First line of input contains size of the array - N and second line contains the elements of the array.</li></ul>
+
+Constraints
+
+<ul><li>2 <= N <= 100</li>
+<li>0 <= ar[i] <= 109</li></ul>
+
+Output Format
+
+<ul><li>Print the duplicate element from the given array.</li></ul>
+</i>
+<br>//INPUTS<br>
+-----------<br>
+6<br>
+5 4 10 9 21 10<br>
+<br>//OUTPUTS<br>
+----------<br>
+10<br>
+
+<hr> 

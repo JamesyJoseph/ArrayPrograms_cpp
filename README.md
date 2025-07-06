@@ -28,7 +28,7 @@ Output Format
 
 <hr> 
 
-# 2) Sum of array elements (SumOfArray.cpp)
+# 2) Sum of array elements (<a href="https://github.com/JamesyJoseph/ArrayPrograms_cpp/blob/main/SumOfArray.cpp">SumOfArray.cpp</a>)
 <p><i>Given an array of integers, find the sum of the elements of the given array.
 Note: Try to solve without declaring/storing the array elements.</i></p>
 <i>

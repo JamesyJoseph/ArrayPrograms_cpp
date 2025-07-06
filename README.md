@@ -60,7 +60,6 @@ Output Format
 
 <hr> 
 
-
 # 3) Duplicate Element in array (<a href="https://github.com/JamesyJoseph/ArrayPrograms_cpp/blob/main/DuplicateElement.cpp">DuplicateElement.cpp</a>)
 <p><i>Find a duplicate element in the given array of integers. There will be only a single duplicate element in the array.
 Note: Do not use any inbuilt functions/libraries for the main logic.</i></p>
@@ -72,7 +71,7 @@ Note: Do not use any inbuilt functions/libraries for the main logic.</i></p>
 Constraints
 
 <ul><li>2 <= N <= 100</li>
-<li>0 <= ar[i] <= 109</li></ul>
+<li>0 <= ar[i] <= 10^9</li></ul>
 
 Output Format
 
@@ -85,5 +84,32 @@ Output Format
 <br>//OUTPUTS<br>
 ----------<br>
 10<br>
+
+<hr> 
+
+# 4) Print Unique Elements of array (<a href="https://github.com/JamesyJoseph/ArrayPrograms_cpp/blob/main/UniqueElements.cpp">UniqueElements.cpp</a>)
+<p><i>Print unique elements of the array in the same order as they appear in the input.
+Note: Do not use any inbuilt functions/libraries for the main logic.</i></p>
+<i>
+  Input Format
+  
+<ul><li>First line of input contains a single integer N - the size of array and second line contains array elements.</li></ul>
+
+Constraints
+
+<ul><li>1 <= N <= 100</li>
+<li>0 <= ar[i] <= 10^9</li></ul>
+
+Output Format
+
+<ul><li>Print unique elements of the array.</li></ul>
+</i>
+<br>//INPUTS<br>
+-----------<br>
+7<br>
+5 4 10 9 21 4 10<br>
+<br>//OUTPUTS<br>
+----------<br>
+5 9 21<br>
 
 <hr> 
